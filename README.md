@@ -1,8 +1,8 @@
-:mortar_board: Estudante de Análise e Desenvolvimento de Sistemas.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas.
 
-- :checkered_flag: Comecei pelo Java e me aprofundei bastante nas suas bibliotecas.
-- :fire: Atualmente estou focado em aprender Javascript e Node.js.
-- :expressionless: Já iniciei muitos projetos de jogos em GameMaker mas nunca concluí nenhum.
+- 🏁 Comecei pelo Java e me aprofundei bastante nas suas bibliotecas.
+- 🔥 Atualmente estou focado em aprender Javascript, Node.js, Angular 2 e Typescript.
+- 😑 No passado já iniciei muitos projetos de jogos em GameMaker mas nunca concluí nenhum.
 
 ## Perfis
 
