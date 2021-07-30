@@ -11,3 +11,9 @@
 [Codewars](https://www.codewars.com/users/flwedu)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flwedu)](https://github.com/anuraghazra/github-readme-stats)
+
+## Tecnologias de interesse
+<i class="devicon-javascript-plain colored"></i> 
+<i class="devicon-nodejs-plain colored"></i> 
+<i class="devicon-java-plain-wordmark colored"></i> 
+
