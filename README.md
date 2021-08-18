@@ -1,8 +1,9 @@
-🎓 Estudante de Análise e Desenvolvimento de Sistemas.
+Olá, sou estudante de Análise e Desenvolvimento de Sistemas. 
 
-- 🏁 Comecei pelo Java e me aprofundei bastante nas suas bibliotecas.
-- 🔥 Atualmente estou focado em aprender Javascript, Node.js, Angular 2 e Typescript.
-- 😑 No passado já iniciei muitos projetos de jogos em GameMaker mas nunca concluí nenhum.
+Comecei os estudos pelo Java e aprendi bastate sobre boas práticas e design patterns.
+Sempre gostei de programar joguinhos no GameMaker utilizando a GML, e esse conhecimento prévio OO e estrutura de dados me ajudou bastante no início dos meus estudos.
+Depois descobri o desenvolvimento Web, e atualmente estou focado em aprender Javascript, Node.js, Angular 2 e Typescript.
+
 
 ## Perfis
 
