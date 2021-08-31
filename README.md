@@ -1,8 +1,10 @@
-Olá, sou estudante de Análise e Desenvolvimento de Sistemas. 
+Opa, sou Eduardo. Cursando Análise e Desenvolvimento de Sistemas. 
 
-Comecei os estudos pelo Java e aprendi bastate sobre boas práticas e design patterns.
 Sempre gostei de programar joguinhos no GameMaker utilizando a GML, e esse conhecimento prévio OO e estrutura de dados me ajudou bastante no início dos meus estudos.
-Depois descobri o desenvolvimento Web, e atualmente estou focado em aprender Javascript, Node.js, Angular 2 e Typescript.
+
+Já na faculdade, iniciei os estudos pelo **Java** e busquei muito conteúdo sobre boas práticas e design patterns.
+
+Depois descobri o desenvolvimento Web, e atualmente estou focado em aprender **Javascript**, Node.js, Angular 2 e Typescript.
 
 
 ## Perfis
