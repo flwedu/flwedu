@@ -8,6 +8,9 @@ Depois descobri o desenvolvimento Web, e atualmente estou focado em aprender **J
 
 
 ## Perfis
+[Linkedin](https://www.linkedin.com/in/edu-aquino/)
+
+[Twitter](https://twitter.com/emprestavel)
 
 [HackerRank](https://www.hackerrank.com/edutraquino)
 
