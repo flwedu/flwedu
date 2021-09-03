@@ -9,7 +9,7 @@ Depois descobri o desenvolvimento Web, e atualmente estou focado em aprender **J
 
 In college, I started my studies with Java and looked for a lot of content about its libs, good practices and design patterns.
 
-Then I discovered web development, and I am currently focused on learning **Javascript**♥, **Node.js**, **Angular 2** and **Typescript**.
+Lately I discovered web development, and I am currently focused on learning **Javascript**♥, **Node.js**, **Angular 2** and **Typescript**.
 
 ------------------------------
 
