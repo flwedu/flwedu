@@ -14,6 +14,8 @@ Lately I discovered web development, and I am currently focused on learning **Ja
 ------------------------------
 
 ## Links
+[Portfolio (Github Pages)](https://flwedu.github.io/)
+
 [Linkedin](https://www.linkedin.com/in/edu-aquino/)
 
 [Twitter](https://twitter.com/emprestavel)
@@ -22,5 +24,6 @@ Lately I discovered web development, and I am currently focused on learning **Ja
 
 [Codewars](https://www.codewars.com/users/flwedu)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flwedu)](https://github.com/anuraghazra/github-readme-stats)
 
