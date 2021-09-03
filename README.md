@@ -1,13 +1,19 @@
-Opa, sou Eduardo, estudante da área de desenvolvimento de softwares. Atualmente cursando Análise e Desenvolvimento de Sistemas.
+:brazil: / Opa, sou Eduardo, estudante da área de desenvolvimento de softwares. Atualmente cursando Análise e Desenvolvimento de Sistemas.
 
-Sempre gostei de programar joguinhos no GameMaker utilizando a GML, e esse conhecimento prévio OO e estrutura de dados me ajudou bastante no início dos meus estudos.
+Na faculdade, iniciei os estudos pelo **Java** e busquei muito conteúdo sobre suas libs, boas práticas e design patterns.
 
-Já na faculdade, iniciei os estudos pelo **Java** e busquei muito conteúdo sobre suas libs, boas práticas e design patterns.
+Depois descobri o desenvolvimento Web, e atualmente estou focado em aprender **Javascript** ♥, **Node.js**, **Angular 2** e **Typescript**.
 
-Depois descobri o desenvolvimento Web, e atualmente estou focado em aprender **Javascript**, Node.js, Angular 2 e Typescript.
+-------------------------------
+:us: / Oops, I'm Eduardo, a student in the software development area.
 
+In college, I started my studies with Java and looked for a lot of content about its libs, good practices and design patterns.
 
-## Perfis
+Then I discovered web development, and I am currently focused on learning **Javascript**♥, **Node.js**, **Angular 2** and **Typescript**.
+
+------------------------------
+
+## Links
 [Linkedin](https://www.linkedin.com/in/edu-aquino/)
 
 [Twitter](https://twitter.com/emprestavel)
