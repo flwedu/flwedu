@@ -24,6 +24,6 @@ Lately I discovered web development, and I am currently focused on learning **Ja
 
 [Codewars](https://www.codewars.com/users/flwedu)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flwedu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flwedu)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flwedu)](https://github.com/anuraghazra/github-readme-stats)
 
