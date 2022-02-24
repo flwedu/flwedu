@@ -1,15 +1,11 @@
 :brazil: / Sou estudante da área de desenvolvimento de softwares. Formado em Análise e Desenvolvimento de Sistemas e pós-graduando em Desenvolvimento Web Fullstack.
 
-Ainda na faculdade comecei programando com **Java** e estudei muito sobre suas bibliotecas, boas práticas e design patterns.
-
-Algum tempo mais tarde descobri o desenvolvimento web, e atualmente estou focado em aprender **Javascript** / **Typescript** ♥ e **Node.js**.
+Atualmente focado em aprender **Javascript** ♥, **Typescript** e **Node.js**. Também manjo de Java, HTML, CSS e estudo Reactjs também.
 
 -------------------------------
 :us: / I'm a student of software development. Graduated in Systems Analysis and Development and post-graduated in Fullstack Web Development.
 
-In college I learned how to program with **Java** and studied a lot about its libraries, best practices and design patterns.
-
-Lately I discovered web development, and I am currently focused on learning **Javascript** / **Typescript** ♥ and **Node.js**.
+I am currently focused on learning **Javascript** ♥,**Typescript** and **Node.js**. I also know Java, HTML, CSS and I study Reactjs as well.
 
 ------------------------------
 
