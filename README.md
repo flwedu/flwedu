@@ -5,7 +5,7 @@
 ---
 
 
-### Languages
+### Main Skills
 
 <div display="inline-block" align="center">
 </div>
