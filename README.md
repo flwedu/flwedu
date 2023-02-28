@@ -1,17 +1,14 @@
-:brazil: / Sou estudante da área de desenvolvimento de softwares. Formado em Análise e Desenvolvimento de Sistemas e pós-graduando em Desenvolvimento Web Fullstack.
+:brazil: / Software Developer Jr. Formado em Análise e Desenvolvimento de Sistemas e pós-graduado em Desenvolvimento Web Fullstack.
 
-:us: / I'm a student of software development. Graduated in Systems Analysis and Development and post-graduated in Fullstack Web Development.
+:us: / Software Developer Jr. Graduated in Systems Analysis and Development and post-graduated in Fullstack Web Development.
 
 ---
 
-
+<div display="inline-block" align="center">
+  
 ### Main Skills
 
-<div display="inline-block" align="center">
-</div>
-
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -43,6 +40,8 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+</div>
 
 ---
 
