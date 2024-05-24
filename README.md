@@ -1,12 +1,29 @@
-:brazil: / Software Developer Jr. Formado em Análise e Desenvolvimento de Sistemas e pós-graduado em Desenvolvimento Web Fullstack.
+# Bio :brazil: 
+👨‍💻 Desenvolvedor de Software Jr com formação em Análise e Desenvolvimento de Sistemas e pós-graduação em Desenvolvimento Web Fullstack.
 
-:us: / Software Developer Jr. Graduated in Systems Analysis and Development and post-graduated in Fullstack Web Development.
+💡 Apaixonado por tecnologias emergentes e soluções inovadoras, com foco especial em JavaScript, minha linguagem de programação favorita.
+
+📚 Inspirado por obras cyberpunk, que alimentam minha criatividade e visão sobre o futuro da tecnologia.
+
+🚀 Este perfil no GitHub reflete meu compromisso com o aprimoramento contínuo e a busca por excelência no desenvolvimento de software.
+
+
+# Bio :us:
+
+👨‍💻 Junior Software Developer with a degree in Systems Analysis and Development and a postgraduate degree in Fullstack Web Development.
+
+💡 Passionate about emerging technologies and innovative solutions, with a special focus on JavaScript, my favorite programming language.
+
+📚 Inspired by cyberpunk works, which fuel my creativity and vision for the future of technology.
+
+🚀 This GitHub profile reflects my commitment to continuous improvement and the pursuit of excellence in software development.
+
 
 ---
 
 <div display="inline-block" align="center">
   
-### Tech Skills
+## Tech Skills
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -27,7 +44,7 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Studying
+## Interests
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
