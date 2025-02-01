@@ -1,10 +1,6 @@
 # Bio :brazil: 
 👨‍💻 Desenvolvedor de Software Jr com formação em Análise e Desenvolvimento de Sistemas e pós-graduação em Desenvolvimento Web Fullstack.
 
-💡 Apaixonado por tecnologias emergentes e soluções inovadoras, com foco especial em JavaScript, minha linguagem de programação favorita.
-
-📚 Inspirado por obras cyberpunk, que alimentam minha criatividade e visão sobre o futuro da tecnologia.
-
 🚀 Este perfil no GitHub reflete meu compromisso com o aprimoramento contínuo e a busca por excelência no desenvolvimento de software.
 
 
@@ -12,12 +8,7 @@
 
 👨‍💻 Junior Software Developer with a degree in Systems Analysis and Development and a postgraduate degree in Fullstack Web Development.
 
-💡 Passionate about emerging technologies and innovative solutions, with a special focus on JavaScript, my favorite programming language.
-
-📚 Inspired by cyberpunk works, which fuel my creativity and vision for the future of technology.
-
 🚀 This GitHub profile reflects my commitment to continuous improvement and the pursuit of excellence in software development.
-
 
 ---
 
